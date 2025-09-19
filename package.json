@@ -1,0 +1,12 @@
+{
+  "name": "ai-workshop-landing",
+  "version": "1.0.0",
+  "description": "月イチAI実践会 - Gemini×GAS Workshop Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ai", "workshop", "gemini", "gas"],
+  "author": "",
+  "license": "ISC"
+}
